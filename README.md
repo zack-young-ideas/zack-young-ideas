@@ -15,7 +15,7 @@ Here are a few projects I've built and deployed:
   A React app that calculates mortgage amortizations given purchase price, interest rate, and amortization length.
 
 ### Currently Working On
-- Creating scripts to automate several freelance services, such as deploying an Express app to an AWS EC2 instance.
+- Creating scripts to automate several freelance services, such as deploying an Express app to an AWS EC2 instance
 - A web-based application that enables transit agencies to optimize scheduling of employees
 
 ### Currently Learning
