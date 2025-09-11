@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Zack
 
-<!--
-**zack-young-ideas/zack-young-ideas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack JavaScript developer passionate about building scalable, secure, and performant applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Frontent:** React, Vue, Bootstrap, Tailwind, Vite
+- **Backend:** Node.js, Express, Django
+- **Databases:** MySQL, SQLite, MongoDB
+- **Cloud & DevOps:** AWS (S3, EC2, VPC, CloudFront, SES, Lambda), Nginx, Apache
+- **Other:** Git, REST APIs, WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+Here are a few projects I've built and deployed:
+- **[Mortgage Calculator (React)](https://github.com/zack-young-ideas/mortgage-calculator)**
+  A React app that calculates mortgage amortizations given purchase price, interest rate, and amortization length.
+
+### Currently Working On
+- Creating scripts to automate several freelance services, such as deploying an Express app to an AWS EC2 instance.
+- A web-based application that enables transit agencies to optimize scheduling of employees
+
+### Currently Learning
+- More about mixed-integer linear programming
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zack-young-52a965164/) or reach out for collaboration!
