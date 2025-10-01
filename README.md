@@ -6,7 +6,7 @@ Full-stack JavaScript developer passionate about building scalable, secure, and 
 - **Frontent:** React, Vue, Bootstrap, Tailwind, Vite
 - **Backend:** Node.js, Express, Django
 - **Databases:** MySQL, SQLite, MongoDB
-- **Cloud & DevOps:** AWS (S3, EC2, VPC, CloudFront, SES, Lambda), Nginx, Apache
+- **Cloud & DevOps:** AWS (S3, EC2, VPC, CloudFront, SES, Lambda), Nginx, Apache, Anisble, Terraform
 - **Other:** Git, REST APIs, WebSockets
 
 ### Featured Projects
