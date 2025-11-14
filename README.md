@@ -1,6 +1,6 @@
 ## Hi, I'm Zack
 
-Full-stack JavaScript developer passionate about building scalable, secure, and performant applications.
+Full-stack Web Developer and Cloud Engineer passionate about building scalable, secure, and performant web applications and deploying them to AWS.
 
 ### Tech Stack
 - **Frontent:** React, Vue, Bootstrap, Tailwind, Vite
@@ -13,10 +13,12 @@ Full-stack JavaScript developer passionate about building scalable, secure, and 
 Here are a few projects I've built and deployed:
 - **[Mortgage Calculator (React)](https://github.com/zack-young-ideas/mortgage-calculator)**
   A React app that calculates mortgage amortizations given purchase price, interest rate, and amortization length.
+- **[Static Site Deployment Tool](https://github.com/zack-young-ideas/static-site-deployment-tool)**
+  A command-line tool that can deploy static websites to AWS using S3, CloudFront, and AWS Certificate Manager.
 
 ### Currently Working On
 - Creating scripts to automate several freelance services, such as deploying an Express app to an AWS EC2 instance
-- A web-based application that enables transit agencies to optimize scheduling of employees
+- A course about creating applications using Next.js and deploying them to AWS
 
 ### Currently Learning
 - More about mixed-integer linear programming
