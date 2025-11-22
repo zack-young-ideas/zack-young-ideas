@@ -3,8 +3,8 @@
 Full-stack Web Developer and Cloud Engineer passionate about building scalable, secure, and performant web applications and deploying them to AWS.
 
 ### Tech Stack
-- **Frontent:** React, Vue, Bootstrap, Tailwind, Vite
-- **Backend:** Node.js, Express, Django
+- **Frontent:** React, Vue, Bootstrap, Tailwind CSS, Vite
+- **Backend:** Node.js, Express, Django, Next.js
 - **Databases:** MySQL, SQLite, MongoDB
 - **Cloud & DevOps:** AWS (S3, EC2, VPC, CloudFront, SES, Lambda), Nginx, Apache, Anisble, Terraform
 - **Other:** Git, REST APIs, WebSockets
@@ -17,8 +17,8 @@ Here are a few projects I've built and deployed:
   A command-line tool that can deploy static websites to AWS using S3, CloudFront, and AWS Certificate Manager.
 
 ### Currently Working On
-- Creating scripts to automate several freelance services, such as deploying an Express app to an AWS EC2 instance
-- A course about creating applications using Next.js and deploying them to AWS
+- Creating scripts that automate deployment tasks, such as deploying an Express app to an AWS EC2 instance
+- A course about how to create a web app using Next.js and then deploy it to AWS 
 
 ### Currently Learning
 - More about mixed-integer linear programming
