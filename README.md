@@ -11,7 +11,7 @@ Full-stack Web Developer and Cloud Engineer passionate about building scalable, 
 
 ### Featured Projects
 Here are a few projects I've built and deployed:
-- **[Mortgage Calculator (React)](https://github.com/zack-young-ideas/mortgage-calculator)**
+- **[Mortgage Calculator](https://github.com/zack-young-ideas/mortgage-calculator)**
   A React app that calculates mortgage amortizations given purchase price, interest rate, and amortization length.
 - **[Static Site Deployment Tool](https://github.com/zack-young-ideas/static-site-deployment-tool)**
   A command-line tool that can deploy static websites to AWS using S3, CloudFront, and AWS Certificate Manager.
